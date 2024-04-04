@@ -1,4 +1,4 @@
-<html xmlns="http: //www.w3.org/1999/xntml" lang="vi" prefix="og:http://ogp.me/ns# fb: http: //ogp.me/ns/fb#">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="vi" prefix="og:http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 
 <head>
 
